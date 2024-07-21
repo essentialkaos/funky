@@ -1,7 +1,7 @@
 <p align="center"><a href="#readme"><img src=".github/images/card.svg"/></a></p>
 
 <p align="center">
-  <a href="https://kaos.sh/w/funky/ci-push"><img src="https://kaos.sh/w/funky/ci-push.svg" alt="GitHub Actions CI Status" /></a>
+  <a href="https://kaos.sh/w/funky/ci"><img src="https://kaos.sh/w/funky/ci.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/funky/codeql"><img src="https://kaos.sh/w/funky/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
 </p>
