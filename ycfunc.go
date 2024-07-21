@@ -59,7 +59,7 @@ func main() {
 
 // Timer is handler for timer trigger
 func Timer(ctx context.Context, trigger *Trigger) error {
-	req.SetUserAgent("YCFunction|funky", VER)
+	req.SetUserAgent("funky", VER)
 
 	log.Global.UseJSON = true
 	log.Global.WithCaller = true
