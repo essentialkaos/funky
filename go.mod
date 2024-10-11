@@ -1,5 +1,5 @@
 module github.com/essentialkaos/funky
 
-go 1.19
+go 1.22.8
 
-require github.com/essentialkaos/ek/v13 v13.5.1
+require github.com/essentialkaos/ek/v13 v13.6.1
