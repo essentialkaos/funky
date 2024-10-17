@@ -2,4 +2,4 @@ module github.com/essentialkaos/funky
 
 go 1.22.8
 
-require github.com/essentialkaos/ek/v13 v13.6.1
+require github.com/essentialkaos/ek/v13 v13.8.0
